@@ -81,14 +81,6 @@ One of my career highlights was contributing to the **Wise Up Online** platform 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leomullerluiz&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomullerluiz&layout=compact&theme=dark&hide_border=true" height="150" />
-</p>
-
----
 
 ## 📫 Get in Touch
 
